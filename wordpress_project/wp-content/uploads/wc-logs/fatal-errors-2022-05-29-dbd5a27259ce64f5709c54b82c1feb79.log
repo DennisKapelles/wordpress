@@ -1,0 +1,57 @@
+2022-05-29T11:08:23+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class "WoofiltersWpf" not found in C:\xampp\htdocs\wordpress_project\wp-includes\class-wp-hook.php:307
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_project\wp-includes\plugin.php(189): WP_Hook->apply_filters('<style>/*! elem...', Array)
+#1 C:\xampp\htdocs\wordpress_project\wp-includes\post-template.php(253): apply_filters('the_content', '<style>/*! elem...')
+#2 C:\xampp\htdocs\wordpress_project\wp-content\themes\oceanwp\partials\page\article.php(20): the_content()
+#3 C:\xampp\htdocs\wordpress_project\wp-includes\template.php(772): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress_project\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', false, Array)
+#5 C:\xampp\htdocs\wordpress_project\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#6 C:\xampp\htdocs\wordpress_project\wp-content\themes\oceanwp\partials\page\layout.php(20): get_template_part('partials/page/a...')
+#7 C:\xampp\htdocs\wordpress_project\wp-includes\template.php(772): require('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress_project\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', false, Array)
+#9 C:\xampp\htdocs\wordpress_project\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#10 C:\xampp\htdocs\wordpress_project\wp-content\themes\oceanwp\page.php(36): get_template_part('partials/page/l...')
+#11 C:\xampp\htdocs\wordpress_project\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\wordpress_project\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\wordpress_project\index.php(17): require('C:\\xampp\\htdocs...')
+#14 {main}
+  thrown μέσα στο C:\xampp\htdocs\wordpress_project\wp-includes\class-wp-hook.php στην γραμμή 307
+
+2022-05-29T11:08:23+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class "WoofiltersWpf" not found in C:\xampp\htdocs\wordpress_project\wp-includes\class-wp-hook.php:307
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_project\wp-includes\plugin.php(189): WP_Hook->apply_filters('<style>/*! elem...', Array)
+#1 C:\xampp\htdocs\wordpress_project\wp-includes\post-template.php(253): apply_filters('the_content', '<style>/*! elem...')
+#2 C:\xampp\htdocs\wordpress_project\wp-content\themes\oceanwp\partials\page\article.php(20): the_content()
+#3 C:\xampp\htdocs\wordpress_project\wp-includes\template.php(772): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress_project\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', false, Array)
+#5 C:\xampp\htdocs\wordpress_project\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#6 C:\xampp\htdocs\wordpress_project\wp-content\themes\oceanwp\partials\page\layout.php(20): get_template_part('partials/page/a...')
+#7 C:\xampp\htdocs\wordpress_project\wp-includes\template.php(772): require('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress_project\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', false, Array)
+#9 C:\xampp\htdocs\wordpress_project\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#10 C:\xampp\htdocs\wordpress_project\wp-content\themes\oceanwp\page.php(36): get_template_part('partials/page/l...')
+#11 C:\xampp\htdocs\wordpress_project\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\wordpress_project\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\wordpress_project\index.php(17): require('C:\\xampp\\htdocs...')
+#14 {main}
+  thrown μέσα στο C:\xampp\htdocs\wordpress_project\wp-includes\class-wp-hook.php στην γραμμή 307
+
+2022-05-29T11:08:23+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class "WoofiltersWpf" not found in C:\xampp\htdocs\wordpress_project\wp-includes\class-wp-hook.php:307
+Stack trace:
+#0 C:\xampp\htdocs\wordpress_project\wp-includes\plugin.php(189): WP_Hook->apply_filters('<style>/*! elem...', Array)
+#1 C:\xampp\htdocs\wordpress_project\wp-includes\post-template.php(253): apply_filters('the_content', '<style>/*! elem...')
+#2 C:\xampp\htdocs\wordpress_project\wp-content\themes\oceanwp\partials\page\article.php(20): the_content()
+#3 C:\xampp\htdocs\wordpress_project\wp-includes\template.php(772): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress_project\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', false, Array)
+#5 C:\xampp\htdocs\wordpress_project\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#6 C:\xampp\htdocs\wordpress_project\wp-content\themes\oceanwp\partials\page\layout.php(20): get_template_part('partials/page/a...')
+#7 C:\xampp\htdocs\wordpress_project\wp-includes\template.php(772): require('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress_project\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', false, Array)
+#9 C:\xampp\htdocs\wordpress_project\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#10 C:\xampp\htdocs\wordpress_project\wp-content\themes\oceanwp\page.php(36): get_template_part('partials/page/l...')
+#11 C:\xampp\htdocs\wordpress_project\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\wordpress_project\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\wordpress_project\index.php(17): require('C:\\xampp\\htdocs...')
+#14 {main}
+  thrown μέσα στο C:\xampp\htdocs\wordpress_project\wp-includes\class-wp-hook.php στην γραμμή 307
+

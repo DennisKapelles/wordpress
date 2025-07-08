@@ -1,0 +1,715 @@
+# Translation of Themes - Twenty Twenty-Two in Greek
+# This file is distributed under the same license as the Themes - Twenty Twenty-Two package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-05-18 14:29:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: el_GR\n"
+"Project-Id-Version: Themes - Twenty Twenty-Two\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Twenty Twenty-Two"
+msgstr "Twenty Twenty-Two"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Built on a solidly designed foundation, Twenty Twenty-Two embraces the idea that everyone deserves a truly unique website. The theme’s subtle styles are inspired by the diversity and versatility of birds: its typography is lightweight yet strong, its color palette is drawn from nature, and its layout elements sit gently on the page. The true richness of Twenty Twenty-Two lies in its opportunity for customization. The theme is built to take advantage of the Full Site Editing features introduced in WordPress 5.9, which means that colors, typography, and the layout of every single page on your site can be customized to suit your vision. It also includes dozens of block patterns, opening the door to a wide range of professionally designed layouts in just a few clicks. Whether you’re building a single-page website, a blog, a business website, or a portfolio, Twenty Twenty-Two will help you create a site that is uniquely yours."
+msgstr ""
+"Πατώντας πάνω σε γερά θεμέλια, το Twenty Twenty-Two αποδεικνύει πως σε όλους αξίζει να έχουν έναν πραγματικά μοναδικό ιστότοπο.\n"
+"Τα διακριτικό σχεδιαστικό ύφος του εμπνέεται από την ποικιλομορφία και ευελιξία των πουλιών: η επιλογή των γραμματοσειρών είναι ανάλαφρη και συγχρόνως δυναμική. Η χρωματική παλέτα εμπνέεται από την φύση και τα σχεδιαστικά του στοιχεία διατάσσονται με χάρη πάνω στην σελίδα.\n"
+"Η πιο πολύτιμη προσφορά του Twenty Twenty-Two είναι οι πολυάριθμες δυνατότητες εξατομίκευσης.\n"
+"Αυτό το Θέμα Εμφάνισης αναδεικνύει τα χαρακτηριστικά Ολοκληρωμένης Τροποποίησης Ιστότοπου που εισήγαγε το WordPress 5.9, με αποτέλεσμα τα χρώματα, οι γραμματοσειρές και η διάταξη της κάθε ξεχωριστής σελίδας του ιστότοπού σας να μπορεί να εξατομικευθεί για να εκφράσει το ιδιαίτερο προσωπικό σας ύφος. Επιπλέον, περιλαμβάνει δεκάδες προσχεδιασμένα μπλοκ, για άριστο επαγγελματικό αποτέλεσμα με λίγα μόνο κλικ.\n"
+"Είτε χτίζετε έναν μονοσέλιδο ιστότοπο, ένα ιστολόγιο, ένα επιχειρησιακό ιστότοπο ή ένα πορτφόλιο το Twenty Twenty-Two θα σας βοηθήσει να δημιουργήσετε έναν ιστότοπο που θα εκφράζει αποκλειστικά εσάς."
+
+#: inc/patterns/hidden-404.php:14
+msgctxt "label"
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: inc/patterns/hidden-404.php:14
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: theme.json styles/blue.json styles/pink.json styles/swiss.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Υπόβαθρο"
+
+#: theme.json styles/blue.json styles/pink.json styles/swiss.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Προσκήνιο"
+
+#: theme.json styles/blue.json styles/pink.json styles/swiss.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Βασικό"
+
+#: theme.json styles/blue.json styles/pink.json styles/swiss.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Δευτερεύον"
+
+#: theme.json styles/blue.json styles/pink.json styles/swiss.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Τρίτου επιπέδου"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Κενό"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (Large Header)"
+msgstr "Σελίδα (Μεγάλη κεφαλίδα)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (No Separators)"
+msgstr "Σελίδα (Χωρίς διαχωριστικά)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (No Separators)"
+msgstr "Ένα άρθρο (χωρίς διαχωριστικά)"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and background"
+msgstr "Προσκήνιο και φόντο"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and secondary"
+msgstr "Προσκήνιο και δευτερεύον"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and tertiary"
+msgstr "Προσκήνιο και τρίτου επιπέδου"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and background"
+msgstr "Βασικό και υπόβαθρο"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Serif Pro"
+msgstr "Source Serif Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "System Font"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Υποσέλιδο"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Κεφαλίδα"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and secondary"
+msgstr "Κυρίως και δευτερεύων"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header (Dark, large)"
+msgstr "Κεφαλίδα (Σκοτεινή, μεγάλη)"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header (Dark, small)"
+msgstr "Κεφαλίδα (Σκοτεινή, μικρή)"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to background"
+msgstr "Κατακόρυφο δευτερεύον στο παρασκήνιο"
+
+#: inc/patterns/general-pricing-table.php:84
+msgid "$150"
+msgstr "$150"
+
+#: inc/patterns/general-pricing-table.php:28
+msgid "$25"
+msgstr "$25"
+
+#: inc/patterns/general-pricing-table.php:56
+msgid "$75"
+msgstr "$75"
+
+#: inc/patterns/hidden-404.php:6
+msgid "404 content"
+msgstr "Περιεχόμενο 404"
+
+#: inc/patterns/page-sidebar-poster.php:14
+msgid "<em>Flutter</em>, a collection of bird-related ephemera"
+msgstr "<em>Φτερούγισμα</em>, μια συλλογή εφήμερων που σχετίζονται με τα πουλιά"
+
+#: inc/patterns/page-layout-two-columns.php:10
+msgid "<em>Goldfinch </em><br><em>&amp; Sparrow</em>"
+msgstr "<em>Καρδερίνα </em><br><em>- Σπουργίτι</em>"
+
+#: inc/patterns/header-large-dark.php:24
+#: inc/patterns/hidden-heading-and-bird.php:14
+msgid "<em>The Hatchery</em>: a blog about my adventures in bird watching"
+msgstr "<em>The Hatchery</em>: ένα blog για τις περιπέτειές μου στην παρατήρηση πουλιών"
+
+#: inc/patterns/general-video-header-details.php:11
+#: inc/patterns/page-layout-image-text-and-video.php:11
+msgid "<em>Warble</em>, a film about <br>hobbyist bird watchers."
+msgstr "<em>Warble</em>, μια ταινία για <br>χομπίστες παρατηρητές πουλιών."
+
+#: inc/patterns/page-layout-image-and-text.php:10
+msgid "<em>Watching Birds </em><br><em>in the Garden</em>"
+msgstr "<em>Βλέποντας πουλιά </em><br><em>στον κήπο</em>"
+
+#: inc/patterns/general-video-trailer.php:16
+#: inc/patterns/general-wide-image-intro-buttons.php:22
+msgid "A film about hobbyist bird watchers, a catalog of different birds, paired with the noises they make. Each bird is listed by their scientific name so things seem more official."
+msgstr "Μια ταινία για χομπίστες παρατηρητές πουλιών, ένας κατάλογος διαφορετικών πουλιών, σε συνδυασμό με τους θορύβους που κάνουν. Κάθε πουλί αναφέρεται με το επιστημονικό του όνομα, ώστε τα πράγματα να φαίνονται πιο επίσημα."
+
+#: inc/patterns/page-about-links.php:21
+msgid "A podcast about birds"
+msgstr "Ένα podcast για τα πουλιά"
+
+#: inc/patterns/page-about-links-dark.php:42
+#: inc/patterns/page-about-links.php:46
+msgid "About the hosts"
+msgstr "Σχετικά με τους οικοδεσπότες"
+
+#: inc/patterns/footer-about-title-logo.php:13 inc/patterns/footer-blog.php:13
+msgid "About us"
+msgstr "Σχετικά με εμάς"
+
+#: inc/patterns/general-list-events.php:79
+msgid "Amy Jensen"
+msgstr "Amy Jensen"
+
+#: inc/patterns/general-large-list-names.php:11
+#: inc/patterns/page-sidebar-poster.php:32
+msgid "An icon representing binoculars."
+msgstr "Ένα εικονίδιο που αναπαριστά κιάλια."
+
+#: inc/patterns/page-layout-image-text-and-video.php:42
+msgid "An illustration of a bird in flight"
+msgstr "Μια απεικόνιση ενός πουλιού κατά την πτήση"
+
+#: inc/patterns/page-about-media-right.php:9
+msgid "An image of a bird flying"
+msgstr "Μια εικόνα ενός πουλιού που πετάει"
+
+#: inc/patterns/general-video-header-details.php:41
+msgid "Angelo Tso<br>Edward Stilton<br>Amy Jensen<br>Boston Bell<br>Shay Ford"
+msgstr "Angelo Tso<br>Edward Stilton<br>Amy Jensen<br>Boston Bell<br>Shay Ford"
+
+#: inc/patterns/footer-blog.php:6
+msgid "Blog footer"
+msgstr "Υποσέλιδο ιστολογίου"
+
+#: inc/patterns/page-sidebar-blog-posts.php:6
+msgid "Blog posts with left sidebar"
+msgstr "Αναρτήσεις ιστολογίου με αριστερή πλαϊνή στήλη"
+
+#: inc/patterns/page-sidebar-blog-posts-right.php:6
+msgid "Blog posts with right sidebar"
+msgstr "Αναρτήσεις ιστολογίου με δεξιά πλαϊνή στήλη"
+
+#: inc/patterns/general-two-images-text.php:42
+#: inc/patterns/general-wide-image-intro-buttons.php:35
+#: inc/patterns/page-layout-image-text-and-video.php:30
+msgid "Buy Tickets"
+msgstr "Αγορά Εισιτηρίων"
+
+#: inc/patterns/footer-blog.php:31
+#: inc/patterns/page-sidebar-blog-posts-right.php:74
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+#: inc/patterns/page-sidebar-poster.php:40
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: inc/patterns/footer-default.php:6
+msgid "Default footer"
+msgstr "Προεπιλεγμένο υποσέλιδο"
+
+#: inc/patterns/header-default.php:6
+msgid "Default header"
+msgstr "Προεπιλεγμένη κεφαλίδα"
+
+#: inc/patterns/general-divider-dark.php:6
+msgid "Divider with image and color (dark)"
+msgstr "Διαχωριστικό με εικόνα και χρώμα (σκούρο)"
+
+#: inc/patterns/page-about-media-left.php:17
+msgid "Doug"
+msgstr "Doug"
+
+#: inc/patterns/general-list-events.php:55
+msgid "Doug Stilton"
+msgstr "Doug Stilton"
+
+#: inc/patterns/page-about-solid-color.php:14
+msgid "Edvard<br>Smith"
+msgstr "Edvard<br>Smith"
+
+#: inc/patterns/general-list-events.php:103
+msgid "Emery Driscoll"
+msgstr "Emery Driscoll"
+
+#: inc/patterns/page-about-media-right.php:16
+msgid "Emery<br>Driscoll"
+msgstr "Emery<br>Driscoll"
+
+#: inc/patterns/hidden-404.php:9
+msgctxt "Error code for a webpage that is not found."
+msgid "404"
+msgstr "404"
+
+#: inc/patterns/general-video-trailer.php:12
+#: inc/patterns/page-layout-image-text-and-video.php:49
+msgid "Extended Trailer"
+msgstr "Εκτεταμένο Τρέιλερ"
+
+#: inc/patterns/general-pricing-table.php:75
+msgid "Falcon"
+msgstr "Γεράκι"
+
+#: inc/block-patterns.php:17
+msgid "Featured"
+msgstr "Προβεβλημένα"
+
+#: inc/patterns/general-featured-posts.php:6
+msgid "Featured posts"
+msgstr "Προτεινόμενα άρθρα"
+
+#: inc/patterns/general-pricing-table.php:15
+msgctxt "First item in a numbered list."
+msgid "1"
+msgstr "1"
+
+#: inc/block-patterns.php:18
+msgid "Footers"
+msgstr "Υποσέλιδα"
+
+#: inc/patterns/query-grid.php:6
+msgid "Grid of posts"
+msgstr "Πλέγμα από άρθρα"
+
+#: inc/block-patterns.php:19
+msgid "Headers"
+msgstr "Κεφαλίδες"
+
+#: inc/patterns/general-image-with-caption.php:11
+msgid "Hummingbird"
+msgstr "Κολιμπρί"
+
+#: inc/patterns/general-image-with-caption.php:10
+msgid "Hummingbird illustration"
+msgstr "Εικονογράφηση κολιμπρί"
+
+#: inc/patterns/general-two-images-text.php:17
+#: inc/patterns/general-wide-image-intro-buttons.php:10
+#: inc/patterns/header-large-dark.php:29 inc/patterns/header-small-dark.php:25
+#: inc/patterns/hidden-bird.php:12 inc/patterns/hidden-heading-and-bird.php:19
+msgid "Illustration of a bird flying."
+msgstr "Απεικόνιση ενός πουλιού που πετάει."
+
+#: inc/patterns/general-two-images-text.php:11
+msgid "Illustration of a bird sitting on a branch."
+msgstr "Απεικόνιση ενός πουλιού που κάθεται σε ένα κλαδί."
+
+#: inc/patterns/header-image-background.php:11
+msgid "Illustration of a flying bird"
+msgstr "απεικόνιση ενός ιπτάμενου πουλιού"
+
+#: inc/patterns/general-layered-images-with-duotone.php:10
+#: inc/patterns/page-sidebar-blog-posts-right.php:58
+msgid "Illustration of a flying bird."
+msgstr "Απεικόνιση ενός ιπτάμενου πουλιού."
+
+#: inc/patterns/page-about-media-left.php:9
+#: inc/patterns/page-sidebar-poster.php:26
+msgid "Image of a bird on a branch"
+msgstr "Εικόνα ενός πουλιού σε ένα κλαδί"
+
+#: inc/patterns/general-image-with-caption.php:6
+msgid "Image with caption"
+msgstr "Εικόνα με λεζάντα"
+
+#: inc/patterns/query-irregular-grid.php:6
+msgid "Irregular grid of posts"
+msgstr "Ακανόνιστο πλέγμα άρθρων"
+
+#: inc/patterns/general-list-events.php:31
+msgid "Jesús Rodriguez"
+msgstr "Jesús Rodriguez"
+
+#: inc/patterns/general-large-list-names.php:21
+msgid "Jesús Rodriguez, Doug Stilton, Emery Driscoll, Megan Perry, Rowan Price, Angelo Tso, Edward Stilton, Amy Jensen, Boston Bell, Shay Ford, Lee Cunningham, Evelynn Ray, Landen Reese, Ewan Hart, Jenna Chan, Phoenix Murray, Mel Saunders, Aldo Davidson, Zain Hall."
+msgstr "Jesús Rodriguez, Doug Stilton, Emery Driscoll, Megan Perry, Rowan Price, Angelo Tso, Edward Stilton, Amy Jensen, Boston Bell, Shay Ford, Lee Cunningham, Evelynn Ray, Landen Reese, Ewan Hart, Jenna Chan, Phoenix Murray, Mel Saunders, Aldo Davidson, Zain Hall."
+
+#: inc/patterns/general-video-header-details.php:35
+msgid "Jesús Rodriguez<br>Doug Stilton<br>Emery Driscoll<br>Megan Perry<br>Rowan Price"
+msgstr "Jesús Rodriguez<br>Doug Stilton<br>Emery Driscoll<br>Megan Perry<br>Rowan Price"
+
+#: inc/patterns/page-about-simple-dark.php:18
+msgid "Jesús<br>Rodriguez"
+msgstr "Jesús<br>Rodriguez"
+
+#: inc/patterns/page-about-large-image-and-buttons.php:59
+msgid "Join my mailing list"
+msgstr "Εγγραφείτε στη λίστα αλληλογραφίας μου"
+
+#: inc/patterns/general-subscribe.php:16
+msgid "Join our mailing list"
+msgstr "Εγγραφείτε στη λίστα αλληλογραφίας μας"
+
+#: inc/patterns/header-large-dark.php:6
+msgid "Large header with dark background"
+msgstr "Μεγάλη κεφαλίδα με σκούρο φόντο"
+
+#: inc/patterns/general-large-list-names.php:6
+msgid "Large list of names"
+msgstr "Μεγάλος κατάλογος ονομάτων"
+
+#: inc/patterns/footer-blog.php:23 inc/patterns/general-featured-posts.php:10
+msgid "Latest posts"
+msgstr "Πρόσφατα άρθρα"
+
+#: inc/patterns/general-wide-image-intro-buttons.php:31
+msgid "Learn More"
+msgstr "Μάθετε Περισσότερα"
+
+#: inc/patterns/general-list-events.php:6
+msgid "List of events"
+msgstr "Κατάλογος εκδηλώσεων"
+
+#: inc/patterns/page-about-links-dark.php:34
+#: inc/patterns/page-about-links.php:38
+msgid "Listen on Spotify"
+msgstr "Ακρόαση στο Spotify"
+
+#: inc/patterns/page-about-links-dark.php:30
+#: inc/patterns/page-about-links.php:34
+msgid "Listen on iTunes Podcasts"
+msgstr "Ακρόαση σε Podcast iTunes"
+
+#: inc/patterns/page-sidebar-poster.php:52
+msgid "Location"
+msgstr "Tοποθεσία"
+
+#: inc/patterns/general-list-events.php:25
+msgid "May 14th, 2022, 6 PM"
+msgstr "14 Μαΐου 2022, 6 μ.μ."
+
+#: inc/patterns/general-list-events.php:49
+msgid "May 16th, 2022, 6 PM"
+msgstr "16 Μαΐου 2022, 6 μ.μ."
+
+#: inc/patterns/general-list-events.php:73
+msgid "May 18th, 2022, 7 PM"
+msgstr "18 Μαΐου 2022, 7 μ.μ."
+
+#: inc/patterns/general-list-events.php:97
+msgid "May 20th, 2022, 6 PM"
+msgstr "20 Μαΐου 2022, 6 μ.μ."
+
+#: inc/patterns/page-layout-two-columns.php:58
+msgid "POSTS"
+msgstr "Άρθρα"
+
+#: inc/patterns/page-layout-image-and-text.php:6
+msgid "Page layout with image and text"
+msgstr "Διάταξη σελίδας με εικόνα και κείμενο"
+
+#: inc/patterns/page-layout-image-text-and-video.php:6
+msgid "Page layout with image, text and video"
+msgstr "Διάταξη σελίδας με εικόνα, κείμενο και βίντεο"
+
+#: inc/patterns/page-layout-two-columns.php:6
+msgid "Page layout with two columns"
+msgstr "Διάταξη σελίδας με δύο στήλες"
+
+#: inc/block-patterns.php:21
+msgid "Pages"
+msgstr "Σελίδες"
+
+#: inc/patterns/general-pricing-table.php:19
+msgid "Pigeon"
+msgstr "Περιστέρι"
+
+#: inc/patterns/general-pricing-table.php:79
+msgid "Play a leading role for our community by joining at the Falcon level. This level earns you a seat on our board, where you can help plan future birdwatching expeditions."
+msgstr "Παίξτε ηγετικό ρόλο για την κοινότητά μας συμμετέχοντας στο επίπεδο των Γερακιών. Αυτό το επίπεδο σας εξασφαλίζει μια θέση στο διοικητικό μας συμβούλιο, όπου μπορείτε να βοηθήσετε στο σχεδιασμό μελλοντικών αποστολών παρατήρησης πουλιών."
+
+#: inc/patterns/page-sidebar-poster.php:6
+msgid "Poster with right sidebar"
+msgstr "Αφίσα με δεξιά πλαϊνή στήλη"
+
+#: inc/patterns/general-pricing-table.php:6
+msgid "Pricing table"
+msgstr "Πίνακας τιμολόγησης"
+
+#. Translators: WordPress link.
+#: inc/patterns/footer-blog.php:49 inc/patterns/footer-dark.php:17
+#: inc/patterns/footer-default.php:17 inc/patterns/footer-logo.php:17
+#: inc/patterns/footer-navigation.php:19
+#: inc/patterns/footer-query-images-title-citation.php:34
+#: inc/patterns/footer-query-title-citation.php:32
+msgid "Proudly powered by %s"
+msgstr "Με την υποστήριξη του %s"
+
+#: inc/patterns/page-about-large-image-and-buttons.php:17
+msgid "Purchase my work"
+msgstr "Αγοράστε την εργασία μου"
+
+#: inc/block-patterns.php:20
+msgid "Query"
+msgstr "Ερώτημα"
+
+#: inc/patterns/page-about-large-image-and-buttons.php:43
+msgid "Read about me"
+msgstr "Διαβάστε για μένα"
+
+#: inc/patterns/general-large-list-names.php:30
+msgid "Read more"
+msgstr "Διαβάστε περισσότερα"
+
+#: inc/patterns/general-pricing-table.php:43
+msgctxt "Second item in a numbered list."
+msgid "2"
+msgstr "2"
+
+#: inc/patterns/query-simple-blog.php:6
+msgid "Simple blog posts"
+msgstr "Απλές αναρτήσεις ιστολογίου"
+
+#: inc/patterns/header-small-dark.php:6
+msgid "Small header with dark background"
+msgstr "Μικρή κεφαλίδα με σκούρο φόντο"
+
+#: inc/patterns/page-about-media-left.php:17
+msgid "Stilton"
+msgstr "Stilton"
+
+#: inc/patterns/page-about-large-image-and-buttons.php:25
+msgid "Support my studio"
+msgstr "Υποστηρίξτε το στούντιό μου"
+
+#: inc/patterns/page-about-links-dark.php:38
+#: inc/patterns/page-about-links.php:42
+msgid "Support the show"
+msgstr "Υποστηρίξτε την παράσταση"
+
+#: inc/patterns/page-sidebar-blog-posts-right.php:80
+msgid "Tags"
+msgstr "Ετικέτες"
+
+#: inc/patterns/page-sidebar-poster.php:56
+msgid "The Grand Theater<br>154 Eastern Avenue<br>Maryland NY, 12345"
+msgstr "The Grand Theater<br>154 Eastern Avenue<br>Maryland NY, 12345"
+
+#: inc/patterns/general-list-events.php:61
+#: inc/patterns/general-list-events.php:109
+msgid "The Swell Theater<br>120 River Rd.<br>Rainfall, NH"
+msgstr "The Swell Theater<br>120 River Rd.<br>Rainfall, NH"
+
+#: inc/patterns/general-list-events.php:37
+#: inc/patterns/general-list-events.php:85
+msgid "The Vintagé Theater<br>245 Arden Rd.<br>Gardenville, NH"
+msgstr "The Vintagé Theater<br>245 Arden Rd.<br>Gardenville, NH"
+
+#: inc/patterns/general-pricing-table.php:71
+msgctxt "Third item in a numbered list."
+msgid "3"
+msgstr "3"
+
+#: inc/patterns/general-two-images-text.php:6
+msgid "Two images with text"
+msgstr "Δύο εικόνες με κείμενο"
+
+#: inc/patterns/general-video-trailer.php:6
+msgid "Video trailer"
+msgstr "Τρέιλερ βίντεο"
+
+#: inc/patterns/page-layout-two-columns.php:21
+msgid "WELCOME"
+msgstr "Καλώς ήρθατε"
+
+#: inc/patterns/page-about-links-dark.php:26
+#: inc/patterns/page-about-links.php:30
+msgid "Watch our videos"
+msgstr "Δείτε τα βίντεό μας"
+
+#: inc/patterns/general-wide-image-intro-buttons.php:6
+msgid "Wide image with introduction and buttons"
+msgstr "Ευρεία εικόνα με εισαγωγή και κουμπιά"
+
+#: inc/patterns/footer-blog.php:50 inc/patterns/footer-dark.php:18
+#: inc/patterns/footer-default.php:18 inc/patterns/footer-logo.php:18
+#: inc/patterns/footer-navigation.php:20
+#: inc/patterns/footer-query-images-title-citation.php:35
+#: inc/patterns/footer-query-title-citation.php:33
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: inc/patterns/footer-navigation-copyright.php:20
+#: inc/patterns/footer-social-copyright.php:24
+msgid "© Site Title"
+msgstr "© τίτλος ιστοτόπου"
+
+#: inc/patterns/query-image-grid.php:6
+msgid "Grid of image posts"
+msgstr "Πλέγμα απο εικόνες άρθρων"
+
+#: inc/patterns/page-layout-image-text-and-video.php:53
+msgid "Oh hello. My name’s Angelo, and you’ve found your way to my blog. I write about a range of topics, but lately I’ve been sharing my hopes for next year."
+msgstr "Γεια σου. Με λένε Άγγελο και βρήκες τον δρόμο για το ιστολόγιό μου. Γράφω για μια σειρά θεμάτων, αλλά τελευταία μοιράζομαι τις ελπίδες μου για την επόμενη χρονιά."
+
+#: inc/patterns/page-about-solid-color.php:22
+msgid "Oh hello. My name’s Edvard, and you’ve found your way to my website. I’m an avid bird watcher, and I also broadcast my own radio show every Tuesday evening at 11PM EDT. Listen in sometime!"
+msgstr "Γειά σου. Ονομάζομαι Edvard και βρήκατε το δρόμο σας στον ιστότοπό μου. Είμαι μανιώδης παρατηρητής πουλιών και μεταδίδω επίσης τη δική μου ραδιοφωνική εκπομπή κάθε Τρίτη βράδυ στις 23:00. Ακούστε κάποια στιγμή!"
+
+#: inc/patterns/page-about-links-dark.php:17
+msgid "A trouble of hummingbirds"
+msgstr "Ένα πρόβλημα με τα κολίμπρι"
+
+#: inc/patterns/page-sidebar-grid-posts.php:6
+msgid "Grid of posts with left sidebar"
+msgstr "Πλέγμα αναρτήσεων με αριστερή πλαϊνή στήλη"
+
+#: inc/patterns/page-about-media-right.php:6
+msgid "About page with media on the right"
+msgstr "Σελίδα σχετικά με εμάς με πολυμέσα στα δεξιά"
+
+#: inc/patterns/query-large-titles.php:6
+msgid "Large post titles"
+msgstr "Μεγάλοι τίτλοι άρθρων"
+
+#: inc/patterns/header-centered-logo.php:6
+msgid "Header with centered logo"
+msgstr "Κεφαλίδα με λογότυπο στο κέντρο"
+
+#: inc/patterns/hidden-bird.php:9 inc/patterns/hidden-heading-and-bird.php:10
+msgid "Heading and bird image"
+msgstr "Επικεφαλίδα και εικόνα πουλιού"
+
+#: inc/patterns/header-with-tagline.php:6
+msgid "Header with tagline"
+msgstr "Επικεφαλίδα με υπότιτλο"
+
+#: inc/patterns/header-image-background.php:6
+msgid "Header with image background"
+msgstr "Κεφαλίδα με εικόνα ως φόντο"
+
+#: inc/patterns/general-wide-image-intro-buttons.php:16
+msgid "Welcome to<br>the Aviary"
+msgstr "Καλώς ήρθατε στο<br>το Κλουβί"
+
+#: inc/patterns/footer-about-title-logo.php:17 inc/patterns/footer-blog.php:17
+msgid "We are a rogue collective of bird watchers. We’ve been known to sneak through fences, climb perimeter walls, and generally trespass in order to observe the rarest of birds."
+msgstr "Είμαστε μια αδίστακτη κολεκτίβα παρατηρητών πουλιών. Είναι γνωστό ότι τρυπώνουμε μέσα από φράχτες, σκαρφαλώνουμε περιμετρικούς τοίχους και γενικά καταπατούμε για να παρατηρήσουμε τα σπανιότερα πουλιά."
+
+#: inc/patterns/general-video-header-details.php:6
+msgid "Video with header and details"
+msgstr "Βίντεο με κεφαλίδα και λεπτομέρειες"
+
+#: inc/patterns/header-title-navigation-social.php:6
+msgid "Title, navigation, and social links header"
+msgstr "Κεφαλίδα τίτλου, πλοήγησης και κοινωνικών συνδέσεων"
+
+#: inc/patterns/header-title-and-button.php:6
+msgid "Title and button header"
+msgstr "Κεφαλίδα τίτλου και κουμπιού"
+
+#: inc/patterns/header-text-only-green-background.php:6
+msgid "Text-only header with green background"
+msgstr "Κεφαλίδα μόνο με κείμενο με πράσινο φόντο"
+
+#: inc/patterns/page-about-links-dark.php:13
+#: inc/patterns/page-about-links.php:10
+msgid "Logo featuring a flying bird"
+msgstr "Λογότυπο με πουλί που πετάει"
+
+#: inc/patterns/header-image-background-overlay.php:6
+msgid "Header with image background and overlay"
+msgstr "Κεφαλίδα με φόντο εικόνας και επικάλυψη"
+
+#: inc/patterns/header-centered-logo-black-background.php:6
+msgid "Header with centered logo and black background"
+msgstr "Κεφαλίδα με κεντραρισμένο λογότυπο και μαύρο φόντο"
+
+#: inc/patterns/general-divider-light.php:6
+msgid "Divider with image and color (light)"
+msgstr "Διαχωριστικό με εικόνα και χρώμα (ανοιχτόχρωμο)"
+
+#: inc/patterns/footer-dark.php:6
+msgid "Dark footer with title and citation"
+msgstr "Σκούρο υποσέλιδο με τίτλο και παραπομπή"
+
+#: inc/patterns/general-image-with-caption.php:15
+msgid "A beautiful bird featuring a surprising set of color feathers."
+msgstr "Ένα όμορφο πουλί που διαθέτει ένα εκπληκτικό σύνολο πολύχρωμων φτερών."
+
+#: inc/patterns/footer-about-title-logo.php:6
+msgid "Footer with text, title, and logo"
+msgstr "Υποσέλιδο με κείμενο, τίτλο και λογότυπο"
+
+#: inc/patterns/footer-title-tagline-social.php:6
+msgid "Footer with title, tagline, and social links on a dark background"
+msgstr "Υποσέλιδο με κείμενο, υπότιτλο και συνδέσμους κοινωνικών δικτύων σε σκούρο φόντο"
+
+#: inc/patterns/footer-social-copyright.php:6
+msgid "Footer with social links and copyright"
+msgstr "Υποσέλιδο με συνδέσμους κοινωνικών δικτύων και κείμενο πνευματικών δικαιωμάτων"
+
+#: inc/patterns/footer-logo.php:6
+msgid "Footer with logo and citation"
+msgstr "Υποσέλιδο με λογότυπο και παραπομπή"
+
+#: inc/patterns/footer-navigation.php:6
+msgid "Footer with navigation and citation"
+msgstr "Υποσέλιδο με πλοήγηση και παραπομπή"
+
+#: inc/patterns/footer-navigation-copyright.php:6
+msgid "Footer with navigation and copyright"
+msgstr "Υποσέλιδο με πλοήγηση και κείμενο πνευματικών δικαιωμάτων"
+
+#: inc/patterns/footer-query-title-citation.php:6
+msgid "Footer with query, title, and citation"
+msgstr "Υποσέλιδο με ερώτημα, τίτλο και παραπομπή"
+
+#: inc/patterns/footer-query-images-title-citation.php:6
+msgid "Footer with query, featured images, title, and citation"
+msgstr "Υποσέλιδο με ερώτημα, επιλεγμένες εικόνες, τίτλο και παραπομπή"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://wordpress.org/themes/twentytwentytwo/"
+msgstr "https://el.wordpress.org/themes/twentytwentytwo/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "the WordPress team"
+msgstr "η Ομάδα του WordPress"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
